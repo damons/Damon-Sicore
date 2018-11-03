@@ -1,2 +1,1 @@
-# Damon-Sicore
-This is Damon Sicore.
+This is Damon Sicore's resume.
